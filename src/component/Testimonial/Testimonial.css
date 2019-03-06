@@ -1,0 +1,15 @@
+.Testimonial{
+    display: flex;
+    width: 90%;
+    margin: auto;
+    text-align: left;
+    justify-content: space-between;
+}
+.testDesc{
+    /* flex: 50%; */
+    width: 40%;
+}
+.photo{
+/* flex: 50%; */
+width: 50%;
+}
